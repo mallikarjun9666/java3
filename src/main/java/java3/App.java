@@ -3,7 +3,7 @@ public class App {
     public static void main(String[] args) {
 
         double a = 2.3, b = 4, c = 5.6;
-        double root1, root2, root3;
+        double root1, root2;
 
         double determinant = b * b - 4 * a * c;
 
